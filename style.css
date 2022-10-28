@@ -21,7 +21,7 @@
 }
 
 body {
-    background-image: url("/images/bg-desktop.svg");
+    background-image: url("./images/bg-desktop.svg");
     background-color: var(--Violet);
     height: calc(100vh - 0.1px);
     display: flex;
